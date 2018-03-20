@@ -1,3 +1,7 @@
+<p><strong>****PLEASE NOTE****</strong></p>
+<p>Support for this blockchain and related clients will be discontinued soon and all nodes will be shut down when the swap procedure to the new blockchain and clients KLKS_V2 is completed.</p>
+<p>************************************************************************</p>
+
 Kalkulus is an Open-source community driven cryptocurrency, easy to mine and fairly distributed through a POW mining phase and a crowdfunding campaign.
 The coin use scrypt as a proof-of-work algorithm and will be issued in 20 million coins total supply totally mined, with only 18% available for public presale crowdfunding.
 120 seconds blocks and KGW3 retargeting difficulty system ensure high-speed transactions in a secure and stable P2P digital network.
